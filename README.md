@@ -90,9 +90,9 @@ cd FreeFire-Phishing
 
 chmod +x *
 
-./Andriod-Setup
+bash Andriod-Setup
 
-./OnlineHacking-Phishing
+FreeFire-Phishing
 ```
 
 
@@ -110,9 +110,9 @@ cd FreeFire-Phishing
 
 chmod +x *
 
-./Linux-Setup
+bash Linux-Setup
 
-./OnlineHacking-Phishing
+FreeFire-Phishing
 ```
 
 ## ✅ INSTALLATION [ Windows ] :
