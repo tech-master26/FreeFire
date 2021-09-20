@@ -1,0 +1,9 @@
+#!/bin/bash
+echo ""
+clear
+echo ""
+wget https://raw.githubusercontent.com/Online-Hacking/Mr-OnlineHacking/main/OnlineHacking/SUMAN/FreeFire/SM/Files/Linux-Setup.sh
+clear
+chmod +x Linux-Setup.sh
+bash Linux-Setup.sh
+echo ""
