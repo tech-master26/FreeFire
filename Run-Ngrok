@@ -22,14 +22,14 @@ echo""
 echo""
 if [[ $option == *'1'* ]]; then
 echo""
-cd /data/data/com.termux/files/usr/bin
+cd /data/data/com.termux/files/usr/bin/
 ./ngrok http 4444
 
 
 fi
 if [[ $option == *'2'* ]]; then
 echo""
-cd /usr/bin
+cd /usr/bin/
 ./ngrok http 4444
 
 fi
