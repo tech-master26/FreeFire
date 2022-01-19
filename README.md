@@ -150,9 +150,6 @@ FreeFire-Phishing
 </p>
 
 
-### WATCH VIDEO 
-
-[![des]()](https://rebrand.ly/rcentvideo)
 
 
 ## 👨🏻‍💻 CONNECT WITH US :
