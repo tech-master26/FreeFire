@@ -1,3 +1,14 @@
+# Using Tutorial : https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html
+
+
+
+  <p>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p>
+  <p>&nbsp;</p><p><br /></p><p><br /></p>
+
+
+  
+
+
 <h1 align="center">Free Fire Phishing - OnlineHacking</h1>
 <p align="center">
   FreeFire ID Hack Use Termux
@@ -9,7 +20,7 @@
 </p>
 <p align="center">
 <a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FREEFIRE_PHISHING-green.svg"></a>
-<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Version" src="https://img.shields.io/badge/Version-2.4-green.svg?style=flat-square"></a>
+<a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Version" src="https://img.shields.io/badge/Version-2.6-green.svg?style=flat-square"></a>
 <a href="https://www.onlinehacking.xyz/2021/07/FreeFire-Phishing-Hack-Termux.html.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
@@ -68,6 +79,12 @@ FREEFIRE-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A FREEFIRE ACCOUNT OF Y
 * [+] Custom link !
 
 * [+] Easy for Beginners !
+
+
+### 🎥 WATCH VIDEO 
+
+<p align="center"> <a href="https://play.onlinehacking.xyz/v/bINNkn"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
+
 
 
 ## ✅ INSTALLATION [ All Systems ] :
