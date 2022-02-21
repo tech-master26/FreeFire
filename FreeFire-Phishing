@@ -28,7 +28,7 @@ php="$(ps -efw | grep php | grep -v grep | awk '{print $2}')"
 ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php
 kill -9 $ngrok
-kill -9 $cloudflared
+kill -9 $cloudflared-linux-arm
 clear
 cd /data/data/com.termux/files/usr/bin/OnlineHacking/
 bash logo.sh
@@ -68,9 +68,9 @@ echo ""
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
@@ -173,9 +173,9 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
@@ -279,9 +279,9 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
@@ -385,9 +385,9 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
@@ -492,9 +492,9 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
@@ -598,9 +598,9 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 			   echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo -ne "  "
    		           if [[ `command -v termux-chroot` ]]; then
-			  sleep 2 && termux-chroot ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+			  sleep 2 && termux-chroot ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    			  else
-     		           sleep 2 && ./cloudflared-linux-386 tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
+     		           sleep 2 && ./cloudflared-linux-arm tunnel -url 127.0.0.1:4444 --logfile cld.log > /dev/null 2>&1 &
    	                 fi
 			{ sleep 8; clear; }
 				clink=$(grep -o 'https://[-0-9a-z]*\.trycloudflare.com' "cld.log")
