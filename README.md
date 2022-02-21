@@ -107,7 +107,7 @@ cd FreeFire-Phishing
 
 chmod +x *
 
-bash Andriod-Setup
+bash Android-Setup
 
 FreeFire-Phishing
 ```
