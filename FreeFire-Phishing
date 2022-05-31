@@ -40,9 +40,8 @@ echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo ""
 			   
 			    echo -e $""
-            echo -e "\e[96m========================\e[93m    SUMAN © 2022    \e[96m=========================\e[92m"
+            echo -e "\e[96m========================\e[93m    SUMAN © 2022    \e[96m=========================\e[92m \e[34m"
             echo " "
-	    echo -e " \e[34m
 SUMAN © \e[92m
    ____        ___               __  __           __   _            
   / __ \____  / (_)___  ___     / / / /___ ______/ /__(_)___  ____ _
@@ -56,7 +55,7 @@ SUMAN © \e[92m
             echo ""
             echo ""   
 			   
-			   echo -e $" \e[91m[\e[0m Online HacKing\e[91m]\e[1;92m Wait for Start.....\e[0m  "
+			   echo -e $" \e[91m[\e[0m Online HacKing\e[91m]\e[1;92m Wait For Start.....\e[0m  "
 			   echo -ne ""
                            if [[ `command -v termux-chroot` ]]; then
                            sleep 1 && termux-chroot ./ngrok http 127.0.0.1:4444 > /dev/null 2>&1 & 
@@ -209,7 +208,7 @@ links() {
 ## Exit message
 msg_exit() {
 echo ""
-echo -e "\e[91m[\e[92m+\e[91m] \e[92m Thank you for using this tool. Have a good day. \e[m "
+echo -e "\e[91m[\e[92m+\e[91m] \e[92m Thank you For using this tool. Have a good day. \e[m "
 echo ""
 echo -e "\e[1m\e[36m[+] More Hacking Totorial Chack this Website :\e[93m www.onlinehacking.in \e[m "
 echo ""
