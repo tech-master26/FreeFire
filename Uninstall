@@ -34,7 +34,10 @@ echo ""
 echo ""
 sleep 7
 cd /data/data/com.termux/files/usr/bin
-rm -rf SUMAN FreeFire Run-Ngrok OnlineHacking FreeFire-Phishing ngrok cloudflared
+rm -rf FreeFire Run-Ngrok OnlineHacking FreeFire-Phishing ngrok cloudflared
+cd /data/data/com.termux/files/usr/bin/.SUMAN
+rm -rf 1 2 3 4 5 6 7 8 9 0
+rm -rf FreeFire Run-Ngrok OnlineHacking FreeFire-Phishing ngrok cloudflared
 cd /data/data/com.termux/files/home
 rm -rf FreeFire-Phishing
 
@@ -63,6 +66,7 @@ echo ""
 sleep 7
 cd /usr/bin
 rm -rf SUMAN FreeFire Run-Ngrok OnlineHacking FreeFire-Phishing ngrok cloudflared
+rm -rf .SUMAN/1/ .SUMAN/2/ .SUMAN/3/ .SUMAN/4/ .SUMAN/5/ .SUMAN/6/ .SUMAN/7/ .SUMAN/8/ .SUMAN/9/ .SUMAN/0/
 cd /root
 rm -rf FreeFire-Phishing
 
