@@ -42,7 +42,8 @@ echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			    echo -e $""
             echo -e "\e[96m========================\e[93m    SUMAN © 2022    \e[96m=========================\e[92m"
             echo " "
-echo -e "\e[34mSUMAN © \e[92m
+	    echo -e " \e[34m
+SUMAN © \e[92m
    ____        ___               __  __           __   _            
   / __ \____  / (_)___  ___     / / / /___ ______/ /__(_)___  ____ _
  / / / / __ \/ / / __ \/ _ \   / /_/ / __ `/ ___/ //_/ / __ \/ __ `/
@@ -265,7 +266,7 @@ echo ""
 		 if [ $option = 01 ] || [ $option = 1 ]
                  then 
                            cd /data/data/com.termux/files/usr/bin/.SUMAN
-                           cd 1/
+                           cd 0/
 			   echo ""
                            server
                            link_server
@@ -375,7 +376,7 @@ echo ""
 	         then
                 
                            cd /data/data/com.termux/files/usr/bin/.SUMAN/
-                           cd 6/
+                           cd 7/
 			   echo ""
                            echo""
                            server
@@ -395,7 +396,7 @@ echo ""
    elif [ $option = 07 ] || [ $option = 7 ]
 	          then
 	                   cd /data/data/com.termux/files/usr/bin/.SUMAN/
-                           cd 7/         
+                           cd 9/         
                            echo ""
                            echo""
                            server
@@ -437,7 +438,7 @@ echo ""
 elif [ $option = 09 ] || [ $option = 9 ]
 	          then
 	                   cd /data/data/com.termux/files/usr/bin/.SUMAN/
-                           cd 9/         
+                           cd 5/         
                            echo ""
                            echo""
                            server
@@ -455,10 +456,10 @@ elif [ $option = 09 ] || [ $option = 9 ]
 
 
                   break;		  
-elif [ $option = 0 ] || [ $option = 00 ]
+elif [ $option = 10 ] || [ $option = 010 ]
 	          then
 	                   cd /data/data/com.termux/files/usr/bin/.SUMAN/
-                           cd 0/     
+                           cd 1/     
                            echo ""
                            echo""
                            server
