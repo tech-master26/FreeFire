@@ -353,7 +353,7 @@ echo ""
                 elif [ $option = 05 ] || [ $option = 5 ]
 	        then 
                            cd /data/data/com.termux/files/usr/bin/.SUMAN/
-                           cd 5/
+                           cd 6/
                            echo ""
                            echo""
                            server
