@@ -184,7 +184,7 @@ echo -e " \e[97mTelegram : \e[0m\e[34mhttps://t.me/OnlineHacKing \e[0m\n"
 
 
 links() {
-                           echo -e "\e[96m=======================\e[92m    SUMAN © 2022    \e[96m=======================\e[92m"
+                           echo -e "\e[96m=======================\e[92m   SUMAN © 2022 FF  \e[96m=======================\e[92m"
                            echo -e " "
 			   echo ""
                            echo -e " \e[91m[\e[92m*\e[91m]\e[1;93m \e[0m\e[1;95m Link Not Received Manually - Open New Tab Run This Command: "
