@@ -40,8 +40,8 @@ echo -e $" \e[91m[\e[0m-\e[91m]\e[1;92m Launching Cloudflared...\e[0m  "
 			   echo ""
 			   
 			    echo -e $""
-            echo -e "\e[96m========================\e[93m    SUMAN © 2022    \e[96m=========================\e[92m \e[34m"
-            echo -e " 
+            echo -e "\e[96m========================\e[93m    SUMAN © 2022    \e[96m=========================\e[92m \e[34m
+
 SUMAN © \e[92m
    ____        ___               __  __           __   _            
   / __ \____  / (_)___  ___     / / / /___ ______/ /__(_)___  ____ _
@@ -123,7 +123,7 @@ logo2() {
 echo -e "\e[1;96m< < < ============================================================ > > >\e[m "
 printf " \e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m " 
 echo " "
-printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m Game Kharido \e[0m  \e[95m[\e[93mPro\e[95m]\e[0m     \e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;91;107m Free Fire Skin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m "
+printf "\e[1;31m[\e[0m\e[1;92m01\e[0m\e[1;31m] \e[0m\e[1;37;44m Game Kharido \e[0m  \e[95m[\e[32mPro\e[95m]\e[0m     \e[1;31m[\e[0m\e[1;92m06\e[0m\e[1;31m] \e[0m\e[1;91;107m Free Fire Skin \e[0m  \e[95m[\e[93mNew\e[95m]\e[0m "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
 echo
