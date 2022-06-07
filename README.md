@@ -22,10 +22,10 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Version-2.7-blue?style=for-the-badge&color=blue">
-     <img src="https://img.shields.io/github/stars/OnlineHacKing/PUBG-BGMI_Phishing?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/OnlineHacKing/PUBG-BGMI_Phishing?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/OnlineHacKing/PUBG-BGMI_Phishing?color=red&style=for-the-badge">
-    <img src="https://img.shields.io/github/license/OnlineHacKing/PUBG-BGMI_Phishing?style=for-the-badge&color=blue">
+     <img src="https://img.shields.io/github/stars/OnlineHacKing/FreeFire-Phishing?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/OnlineHacKing/FreeFire-Phishing?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/OnlineHacKing/FreeFire-Phishing?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/OnlineHacKing/FreeFire-Phishing?style=for-the-badge&color=blue">
 <br>
     <img src="https://img.shields.io/badge/Author-SUMAN-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
@@ -34,21 +34,21 @@
 </p>
 
 <p align="center">
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-PUBG_BGMI_Phishing-green.svg"></a>
+<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FreeFire-Phishing-green.svg"></a>
 <a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Version" src="https://img.shields.io/badge/Version-2.7-green.svg?style=flat-square"></a>
 <a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
 </p>
 
 <p align="center">
 
-![unnamed (2)](https://github.com/OnlineHacKing/PUBG-BGMI_Phishing/raw/main/img/ONLINEHACKING-PUBG_BGMI.jpg)
+![unnamed (2)](https://www.onlinehacking.in/wp-content/uploads/Free-Fire-Phishing.webp)
 
 </p>
 
 
 ## ABOUT TOOL :
 
-PUBG_BGMI-Phishing IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
+FreeFire-Phishing IS A PHISING TOOL WICH IS USED TO PHISH A FREE FIRE ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### AVAILABLE ON :
 
@@ -102,7 +102,7 @@ PUBG_BGMI-Phishing IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOU
 
 ### 🎥 WATCH VIDEO 
 
-<p align="center"> <a href="https://play.onlinehacking.xyz/v/TeaNPA"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
+<p align="center"> <a href="https://play.onlinehacking.xyz/v/ZIwSEz"><img title="Made in INDIA" width="58%" src="https://www.onlinehacking.in/wp-content/uploads/2021/12/play-.webp"></a>
 
 
 
@@ -161,12 +161,12 @@ FreeFire-Phishing
 
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff2.jpg"/>
+<img width="40%" src="https://i.pinimg.com/564x/99/5e/4d/995e4dcb94133d3c74597bed932288fb.jpg"/>
 </p>
 <br>
 <p align="center">
-<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff3.jpg"/>
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff1.jpg"/>
+<img width="41%" src="https://i.pinimg.com/564x/b1/1f/76/b11f769cb43a768fcbdeb509477e7086.jpg"/>
+<img width="40%" src="https://i.pinimg.com/564x/8c/6e/b6/8c6eb6035fb6ba53deb1c47c77e0c6a0.jpg"/>
 </p>
 
 
