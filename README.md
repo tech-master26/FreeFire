@@ -9,9 +9,9 @@
 
   
   
-<h1 align="center">PUBG BGMI Phishing - OnlineHacking</h1>
+<h1 align="center">Free Fire Phishing - OnlineHacking</h1>
 <p align="center">
-  PUBG and BGMI ID Hack Use Termux
+  Free Fire ID Hack Use Termux
 </p>
 <p align="center">
 <a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FreeFire-Phishing-green.svg"></a>
+<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FreeFirePhishing-green.svg"></a>
 <a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Version" src="https://img.shields.io/badge/Version-2.7-green.svg?style=flat-square"></a>
 <a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
 </p>
