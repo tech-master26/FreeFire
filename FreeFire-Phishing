@@ -226,6 +226,7 @@ echo ""
 printf "\e[100;330m[\e[10m **** ]\e[1;40m\e[10m OnlineHacking :\e[1;32m Join Telegram Channel \e[1;33m @OnlineHacking  !\e[0m"
 sleep 4
 echo ""
+termux-open-url https://wwu.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux
 clear
 echo ""
 printf "\e[31m[\e[32m★\e[31m]\e[32m This Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
