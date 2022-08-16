@@ -14,7 +14,7 @@
   Free Fire ID Hack Use Termux
 </p>
 <p align="center">
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in Bangladesh " src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 </p>
@@ -141,7 +141,7 @@ sudo apt upgrade -y
 
 sudo apt install git wget
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/sirajul26/FreeFire.git
 
 cd FreeFire-Phishing
 
