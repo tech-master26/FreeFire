@@ -1,5 +1,5 @@
 
-# Using Tutorial : https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux
+# Using Tutorial : https://youtube.com/channel/UCBVJrEUuLJqiyzh1kx1OOUA
 
 
 
