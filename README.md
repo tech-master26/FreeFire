@@ -1,51 +1,9 @@
 
-# Using Tutorial : https://youtube.com/channel/UCBVJrEUuLJqiyzh1kx1OOUA
+# Using Tutorial: https://youtube.com/channel/UCBVJrEUuLJqiyzh1kx1OOUA
 
-
-
-  <p>&nbsp;</p><p><br /></p><p><br /></p><p><br /></p>
-  <p>&nbsp;</p><p><br /></p><p><br /></p>
 
 
   
-  
-<h1 align="center">Free Fire Phishing - OnlineHacking</h1>
-<p align="center">
-  Free Fire ID Hack Use Termux
-</p>
-<p align="center">
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in Bangladesh " src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-
-</p>
-
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Version-2.7-blue?style=for-the-badge&color=blue">
-     <img src="https://img.shields.io/github/stars/OnlineHacKing/FreeFire-Phishing?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/OnlineHacKing/FreeFire-Phishing?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/OnlineHacKing/FreeFire-Phishing?color=red&style=for-the-badge">
-    <img src="https://img.shields.io/github/license/OnlineHacKing/FreeFire-Phishing?style=for-the-badge&color=blue">
-<br>
-    <img src="https://img.shields.io/badge/Author-SUMAN-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
-</p>
-
-<p align="center">
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-FreeFirePhishing-green.svg"></a>
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Version" src="https://img.shields.io/badge/Version-2.7-green.svg?style=flat-square"></a>
-<a href="https://www.onlinehacking.in/free-fire-account-hack-phishing-tool-with-termux"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
-</p>
-
-<p align="center">
-
-![unnamed (2)](https://www.onlinehacking.in/wp-content/uploads/Free-Fire-Phishing.webp)
-
-</p>
-
-
 ## ABOUT TOOL :
 
 FreeFire-Phishing IS A PHISING TOOL WICH IS USED TO PHISH A FREE FIRE ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
